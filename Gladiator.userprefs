@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Gladiator/Program.cs">
+    <Files>
+      <File FileName="Gladiator/Program.cs" Line="75" Column="4" />
+      <File FileName="Gladiator/Gladiateur.cs" Line="12" Column="10" />
+      <File FileName="Gladiator/Equipe.cs" Line="13" Column="9" />
+      <File FileName="Gladiator/Combat.cs" Line="1" Column="14" />
+      <File FileName="Gladiator/Tournoi.cs" Line="23" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
